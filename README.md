@@ -1,5 +1,4 @@
 ## Hi devs!
-
 - 🌱 Systems Analysis and Development student
 - 😄 my hobbies are studying, gaming and progamming
 <div>
