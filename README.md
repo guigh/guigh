@@ -1,9 +1,13 @@
+
+  ![ó o espaço (2)](https://github.com/guigh/guigh/assets/141077982/a62290a6-9190-4462-9628-1e7d4b8ba2a0)
+
+
 ## Hi devs!
 - 🌱 Systems Analysis and Development student
 - 😄 my hobbies are studying, gaming and progamming
 <div>
-  <img height="168cm" src="https://github-readme-stats.vercel.app/api?username=guigh&show_icons=true&theme=radical"/>
-  <img height="168cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigh&layout=pie&theme=radical"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=guigh&show_icons=true&theme=radical"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigh&layout=pie&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
