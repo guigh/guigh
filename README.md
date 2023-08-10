@@ -6,8 +6,8 @@
 - 🌱 Systems Analysis and Development student
 - 😄 my hobbies are studying, gaming and progamming
 <div>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=guigh&show_icons=true&theme=radical"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigh&layout=pie&theme=radical"/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=guigh&show_icons=true&theme=radical"/>
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigh&layout=pie&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
