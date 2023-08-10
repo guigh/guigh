@@ -1,5 +1,4 @@
-
-  ![ó o espaço (2)](https://github.com/guigh/guigh/assets/141077982/a62290a6-9190-4462-9628-1e7d4b8ba2a0)
+![ó o espaço (2)](https://github.com/guigh/guigh/assets/141077982/112e2537-67ae-4c72-afa2-f178fc37384a)
 
 
 ## Hi devs!
