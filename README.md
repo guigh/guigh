@@ -1,5 +1,5 @@
 
-<img src="https://github.com/guigh/folder/blob/main/%C3%B3%20o%20espa%C3%A7o%20(2).png" width="1000" height="700">
+<img src="https://github.com/guigh/folder/blob/main/%C3%B3%20o%20espa%C3%A7o%20(2).png" width="1000" height="500">
 
 
 ## Hi devs!
