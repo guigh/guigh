@@ -1,4 +1,5 @@
-![ó o espaço (2)](https://github.com/guigh/guigh/assets/141077982/112e2537-67ae-4c72-afa2-f178fc37384a)
+
+<img src="https://github.com/guigh/folder/blob/main/%C3%B3%20o%20espa%C3%A7o%20(2).png" width="1000" height="700">
 
 
 ## Hi devs!
